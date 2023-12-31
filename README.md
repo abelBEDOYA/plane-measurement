@@ -7,7 +7,7 @@ This repo offers a way to position and measure distances and areas from a RGB ph
 1. Calibrate a camera with `opencv-python`. You can use: `cv2.cameraCalibration()` to get the camera matrix an the distortion coeficients.
 2. Use the script: `get_position_maps.py` as follows:
 ```
-python3 get_mapas_general.py 
+python3 get_position_maps.py 
     --cfg_path '/path/to/camera_calibration_pickles/' 
     --height 12 
     --angulo 45.0 
