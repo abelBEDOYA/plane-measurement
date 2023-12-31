@@ -27,3 +27,21 @@ Now you have:
 ![Alt text](assets/sheet_area.png)
 
 (A4 sheet area is $0.06237\ \mathrm{m^2}$)
+
+
+## Some plot from calculus
+
+### - Intrinsic camera values:
+- Pixel FoV (FIeld of View)
+![Alt text](assets/fovs_intrinsecos.png) 
+
+
+### - Extrinsic camera values for a given configuration (dependent on intrinsic parameters):
+- Position maps
+![Alt text](assets/mapas_xy.png)
+
+- Area map:
+![Alt text](assets/mapa_area.png) 
+
+- Visual solution:
+ ![Alt text](assets/rectas.png)
