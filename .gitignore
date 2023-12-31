@@ -1,0 +1,46 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches
+.cache/
+.cpython/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg/
+
+# Local development
+*.sqlite3
+.db.sqlite3
+db.sqlite3
+
+# IDE (por ejemplo, PyCharm)
+.idea/
+
+# Environment variable file
+.env
+
+# Compiled Python files
+*.pyc
+
+# Logs and databases
+*.log
+*.sqlite
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
