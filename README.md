@@ -10,7 +10,7 @@ This repo offers a way to position and measure distances and areas from a RGB ph
 python3 get_position_maps.py 
     --cfg_path '/path/to/camera_calibration_pickles/' 
     --height 12 
-    --angulo 45.0 
+    --angle 45.0 
     --roll 5.3 
     --imgshape 3000 4000
 ```
